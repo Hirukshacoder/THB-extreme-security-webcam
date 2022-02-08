@@ -7,9 +7,3 @@ so if you are using python 3.10 or vsc or pycharm
 install opencv to do that if your using python 3.10 got to cmd type pip install opencv-python
 on vsc or pychram go to the terminal and type pip install opencv-python
 once you do that go ahead and click on the run button and after a few seconds the webcam will open
-
-features 
-
-record to your computer once a face is detected
-stops recording when a face ir not detected
-you can install to your cctv or your webcam by conneting your webcam to your computer and then simply import our code
