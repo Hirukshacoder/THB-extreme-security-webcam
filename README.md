@@ -19,4 +19,5 @@ It has a cam
 It can record your webcam once a face is detected
 When no face is detected it dosen't record
 And it is saving the mp4 on your pc in our zip file
-You can install our program to your webcam ot a cctv (use a wireless webcam)
+You can install our program to your webcam or a cctv (use a wireless webcam)
+The cam is a gui platform based helped from opencv-python module
