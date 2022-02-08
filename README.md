@@ -7,9 +7,11 @@ step 1 : go to ms store and download python 3.10
 
 step 2 : go to cmd and type pip install opencv-python
 
-step 3 : go and run our code hit on run
+step 3 : go to python 3.10
 
-step 4 : you will get a window with your cam on
+step 4 : go and run our code hit on run
+
+step 5 : you will get a window with your cam on
 
 specifications : 
 
